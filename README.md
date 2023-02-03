@@ -1,1 +1,1 @@
-https://cdn.discordapp.com/attachments/1041837301975744584/1070901810476359780/STARS_GRABBER.png
+![image](https://user-images.githubusercontent.com/124118311/216502555-59caac0d-e688-4a4f-b1a0-7fafc0125874.png)
